@@ -8,5 +8,5 @@ A graphical linear classifier test program.
 
 ## More?
 
-`classifyNearest` function uses Nearest Neighbor classifier algorithm.
-`classifyRouge` function uses Euclidean distance classifier algorithm.
+* `classifyNearest` function uses Nearest Neighbor classifier algorithm.
+* `classifyRouge` function uses Euclidean distance classifier algorithm.
